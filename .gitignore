@@ -3,3 +3,4 @@ main.go
 go.mod
 go.sum
 .idea
+*.txt
