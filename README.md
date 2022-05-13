@@ -1,5 +1,5 @@
 # BasicDataStructuresGo
-Basic data structures written in golang
+Basic data structures and algorithms written in golang
 
 # Includes
 1. Linked Lists
