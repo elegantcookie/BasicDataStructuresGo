@@ -1,5 +1,7 @@
 # BasicDataStructuresGo
-Basic data structures and algorithms written in golang
+Basic data structures and algorithms written in golang<br>
+![image](https://user-images.githubusercontent.com/68335351/168394856-44467cd7-70b8-4775-99f0-513219b82470.png)
+
 
 # Includes
 1. Linked Lists
