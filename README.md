@@ -1,6 +1,7 @@
 # BasicDataStructuresGo
 Basic data structures and algorithms written in golang<br>
-![image](https://user-images.githubusercontent.com/68335351/168394856-44467cd7-70b8-4775-99f0-513219b82470.png)
+<img src="https://user-images.githubusercontent.com/68335351/174986363-5e7e8e69-b100-4187-a3e7-246edb610bb2.png" width="500">
+
 
 
 # Includes
