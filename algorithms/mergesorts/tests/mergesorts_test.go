@@ -1,4 +1,4 @@
-package mergesorts
+package tests
 
 import (
 	"BasicDataStructuresGo/algorithms/mergesorts/recursive/onebuffer_mergesort"
@@ -25,6 +25,7 @@ func getSortedArray(n int) []int {
 	return newArr
 }
 
+// Checks if arrayA is equal to arrayB
 func equal(arrayA []int, arrayB []int) bool {
 	aLen := len(arrayA)
 	bLen := len(arrayB)
