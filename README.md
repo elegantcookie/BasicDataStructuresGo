@@ -6,8 +6,8 @@ Basic data structures and algorithms written in golang<br>
 
 # Includes
 1. Linked Lists
-    - [Linked List](./linked_list.go)
+    - [Linked List](https://github.com/elegantcookie/BasicDataStructuresGo/blob/master/data_structures/linked_list.go)
 2. Merge Sorts
-    - [Recursive Simple Merge Sort](./rec_simple_mergesort.go)
-    - [Recursive One Buffer Merge Sort](./rec_onebuffer_mergesort.go)
+    - [Recursive Simple Merge Sort](https://github.com/elegantcookie/BasicDataStructuresGo/blob/master/algorithms/mergesorts/recursive/simple_mergesort/simple.go)
+    - [Recursive One Buffer Merge Sort](https://github.com/elegantcookie/BasicDataStructuresGo/tree/master/algorithms/mergesorts/recursive/onebuffer_mergesort)
 
