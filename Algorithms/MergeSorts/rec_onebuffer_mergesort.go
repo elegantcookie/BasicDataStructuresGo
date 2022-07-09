@@ -1,4 +1,4 @@
-package main
+package MergeSorts
 
 // Merges left and right halves of the array using buffer
 func obMerge(arr []int, buffer []int, l, mid, r int) {

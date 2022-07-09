@@ -1,4 +1,4 @@
-package main
+package MergeSorts
 
 // Merges left and right halves of the array with memory allocation for an array of the size of each half.
 func merge(arr []int, l, mid, r int) {
