@@ -1,7 +1,6 @@
-forloop.go
-main.go
-go.mod
-go.sum
 .idea
 *.txt
 heap.go
+build
+
+iterative_mergesort.go

@@ -1,4 +1,4 @@
-package MergeSorts
+package simple_mergesort
 
 // Merges left and right halves of the array with memory allocation for an array of the size of each half.
 func merge(arr []int, l, mid, r int) {
@@ -51,5 +51,8 @@ func mergeSort(array []int, l, r int) {
 	mergeSort(array, l, mid)
 	mergeSort(array, mid+1, r)
 	merge(array, l, mid, r)
+}
 
+func Sort(array []int) {
+	mergeSort(array, 0, len(array)-1)
 }
